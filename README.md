@@ -33,4 +33,4 @@ Welcome to my FreeCodeCamp projects repository! This repository contains various
 To get a copy of the projects, clone this repository using the following command:
 
 ```bash
-git clone https://github.com/yourusername/FreeCodeCamp_tutorial_Projects.git
+git clone https://github.com/Lala2398/FreeCodeCamp_tutorial_Projects.git
