@@ -4,16 +4,15 @@ Welcome to my FreeCodeCamp projects repository! This repository contains various
 
 ## Projects Overview
 
-### 1. Data Analysis Projects
+### 1. [Data Analysis Projects](https://github.com/Lala2398/FreeCodeCamp_tutorial_Projects/tree/main/DataAnalysiswith_Python/mean_var_std_project)
 
 #### Mean, Variance, Standard Deviation Calculator
 - **Description:** A calculator that computes the mean, variance, and standard deviation of a given dataset.
 - **Technologies Used:** Python, NumPy
 - **Files:**
   - `mean_var_std.py`: The main script containing the implementation.
-  - `README.md`: Documentation for the project.
 
-#### Demographic Data Analyzer
+#### [Demographic Data Analyzer](https://github.com/Lala2398/FreeCodeCamp_tutorial_Projects/tree/main/DataAnalysiswith_Python/Data_analysis_project_demographics)
 - **Description:** Analyzes demographic data to provide insights and statistics, such as average age, gender distribution, and more.
 - **Technologies Used:** Python, Pandas
 - **Files:**
@@ -22,13 +21,12 @@ Welcome to my FreeCodeCamp projects repository! This repository contains various
 
 ### 2. Responsive Web Design Project
 
-#### Cat Photo App
-- **Description:** A responsive web application that showcases cat photos using HTML and CSS.
+#### [Cat Photo App](https://github.com/Lala2398/FreeCodeCamp_tutorial_Projects/tree/main/ResponsiveWebDesign/Cat%20Photo%20App%20with%20HTML)
+- **Description:** A responsive web application that showcases cat photos using HTML.
 - **Technologies Used:** HTML, CSS
 - **Files:**
-  - `index.html`: The main HTML file for the cat photo app.
-  - `styles.css`: CSS file for styling the application.
-  - `README.md`: Documentation for the project.
+  - `CatPhotoApp.html`: The main HTML file for the cat photo app.
+  - `Cat_photo_app.png`: Photo of project
 
 ## Getting Started
 
