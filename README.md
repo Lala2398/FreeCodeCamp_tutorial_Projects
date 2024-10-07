@@ -4,9 +4,9 @@ Welcome to my FreeCodeCamp projects repository! This repository contains various
 
 ## Projects Overview
 
-### 1. [Data Analysis Projects](https://github.com/Lala2398/FreeCodeCamp_tutorial_Projects/tree/main/DataAnalysiswith_Python/mean_var_std_project)
+### 1. Data Analysis Projects
 
-#### Mean, Variance, Standard Deviation Calculator
+#### [Mean, Variance, Standard Deviation Calculator](https://github.com/Lala2398/FreeCodeCamp_tutorial_Projects/tree/main/DataAnalysiswith_Python/mean_var_std_project)
 - **Description:** A calculator that computes the mean, variance, and standard deviation of a given dataset.
 - **Technologies Used:** Python, NumPy
 - **Files:**
