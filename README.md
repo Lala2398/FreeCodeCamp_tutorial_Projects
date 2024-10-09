@@ -28,6 +28,16 @@ Welcome to my FreeCodeCamp projects repository! This repository contains various
   - `CatPhotoApp.html`: The main HTML file for the cat photo app.
   - `Cat_photo_app.png`: Photo of project
 
+ ### 3. Scientific Computing with Python (Beta) 
+
+ #### [Learn String Manipulation by Building a Cipher](https://github.com/Lala2398/FreeCodeCamp_tutorial_Projects/blob/main/Scientific%20Computing%20with%20Python%20(Beta)/Learn_String_Manipulation_by_Building_a_Cipher.py) 
+ - **Description:** A cipher is a method used to encrypt or encode information to keep it secure from unauthorized access. It transforms readable data (plaintext) into a format that is unreadable (ciphertext), and the process can be reversed to retrieve the original data.
+ - **Features:** 
+     - Encryption: Convert plaintext into ciphertext using a keyword.
+     - Decryption: Convert ciphertext back into plaintext using the same keyword.
+     - Handles non-letter characters (e.g., spaces, punctuation) by leaving them unchanged.
+- **Requirements:** Python 3.x
+
 ## Getting Started
 
 To get a copy of the projects, clone this repository using the following command:
