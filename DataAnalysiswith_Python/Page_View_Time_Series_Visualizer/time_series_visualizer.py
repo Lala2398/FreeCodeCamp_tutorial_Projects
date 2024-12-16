@@ -20,12 +20,11 @@ def draw_line_plot():
     ax.set_xlabel('Date', fontsize=12)
     ax.set_ylabel('Page Views', fontsize=12)
 
-    # Save image and return fig (don't change this part)
+    # Save image and return fig 
     fig.savefig('line_plot.png')
     return fig
 
 def draw_bar_plot():
-    # Copy and modify data for monthly bar plot
     df_bar = df.copy()
     df_bar['year'] = df_bar.index.year
     df_bar['month'] = df_bar.index.month
@@ -42,7 +41,7 @@ def draw_bar_plot():
 
     plt.title('Average Daily Page Views per Month', fontsize=16)
 
-    # Save image and return fig (don't change this part)
+    # Save image and return fig 
     fig.savefig('bar_plot.png')
     return fig
 
