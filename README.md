@@ -60,36 +60,36 @@ Project 5 - [Sea Level Predictor]()
 
 #### [Certification Project 1: Build an Arithmetic Formatter Project](https://github.com/Lala2398/FreeCodeCamp_tutorial_Projects/blob/main/Scientific%20Computing%20with%20Python%20(Beta)/Build_an_Arithmetic_Formatter.py)
 
-#### [Learn Regular Expressions by Building a Password Generator]()
+#### [Learn Regular Expressions by Building a Password Generator](https://github.com/Lala2398/FreeCodeCamp_tutorial_Projects/blob/main/Scientific%20Computing%20with%20Python%20(Beta)/Learn_Regular_Expressions_by_Building_a_Password_Generator.py)
 
-#### [Learn Algorithm Design by Building a Shortest Path Algorithm]()
-
-
-#### [Learn Recursion by Solving the Tower of Hanoi Puzzle]()
+#### [Learn Algorithm Design by Building a Shortest Path Algorithm](https://github.com/Lala2398/FreeCodeCamp_tutorial_Projects/blob/main/Scientific%20Computing%20with%20Python%20(Beta)/Shortest_Path_algorithm.py)
 
 
-#### [Learn Data Structures by Building the Merge Sort Algorithm]()
+#### [Learn Recursion by Solving the Tower of Hanoi Puzzle](https://github.com/Lala2398/FreeCodeCamp_tutorial_Projects/blob/main/Scientific%20Computing%20with%20Python%20(Beta)/Hanoi_puzzle_recursion.py)
 
 
-#### [Certification Project 2 : Build a Time Calculator Project]()
-
-#### [Learn Classes and Objects by Building a Sudoku Solver]()
+#### [Learn Data Structures by Building the Merge Sort Algorithm](https://github.com/Lala2398/FreeCodeCamp_tutorial_Projects/blob/main/Scientific%20Computing%20with%20Python%20(Beta)/Data_structures_with_MergeSort.py)
 
 
-#### [Learn Tree Traversal by Building a Binary Search Tree]()
+#### [Certification Project 2 : Build a Time Calculator Project](https://github.com/Lala2398/FreeCodeCamp_tutorial_Projects/blob/main/Scientific%20Computing%20with%20Python%20(Beta)/Time_calculator.py)
+
+#### [Learn Classes and Objects by Building a Sudoku Solver](https://github.com/Lala2398/FreeCodeCamp_tutorial_Projects/blob/main/Scientific%20Computing%20with%20Python%20(Beta)/SudokuSolver_Classes_Objects.py)
 
 
-#### [Certification Project 3: Build a Budget App Project]()
+#### [Learn Tree Traversal by Building a Binary Search Tree](https://github.com/Lala2398/FreeCodeCamp_tutorial_Projects/blob/main/Scientific%20Computing%20with%20Python%20(Beta)/Binary_search_tree_with_tree_traversal.py)
 
-#### [Learn Special Methods by Building a Vector Space]()
 
-#### [Learn Interfaces by Building an Equation Solver]()
+#### [Certification Project 3: Build a Budget App Project](https://github.com/Lala2398/FreeCodeCamp_tutorial_Projects/blob/main/Scientific%20Computing%20with%20Python%20(Beta)/budget_app.py)
 
-#### [Certification Project 4 : Build a Polygon Area Calculator Project]()
+#### [Learn Special Methods by Building a Vector Space](https://github.com/Lala2398/FreeCodeCamp_tutorial_Projects/blob/main/Scientific%20Computing%20with%20Python%20(Beta)/Building_vector_space_with_special_methods.py)
 
-#### [Learn Encapsulation by Building a Projectile Trajectory Calculator]()
+#### [Learn Interfaces by Building an Equation Solver](https://github.com/Lala2398/FreeCodeCamp_tutorial_Projects/blob/main/Scientific%20Computing%20with%20Python%20(Beta)/Equation_Solver_with_Interfaces.py)
 
-#### [Certification Project 5: Build a Probability Calculator Project]()
+#### [Certification Project 4 : Build a Polygon Area Calculator Project](https://github.com/Lala2398/FreeCodeCamp_tutorial_Projects/blob/main/Scientific%20Computing%20with%20Python%20(Beta)/Build%20a%20Polygon%20Area%20Calculator%20Project.py)
+
+#### [Learn Encapsulation by Building a Projectile Trajectory Calculator](https://github.com/Lala2398/FreeCodeCamp_tutorial_Projects/blob/main/Scientific%20Computing%20with%20Python%20(Beta)/Projector_Trajectory_Calculator_with_Encapsulation.py)
+
+#### [Certification Project 5: Build a Probability Calculator Project](https://github.com/Lala2398/FreeCodeCamp_tutorial_Projects/blob/main/Scientific%20Computing%20with%20Python%20(Beta)/Probability_Calculator.py)
 
 
 ## Getting Started
