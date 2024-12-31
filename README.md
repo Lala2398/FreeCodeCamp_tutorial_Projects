@@ -4,7 +4,7 @@ Welcome to my FreeCodeCamp projects repository! This repository contains various
 
 ## Projects Overview
 
-### 1. Data Analysis Projects
+### 1. Data Analysis  + [Certificate](https://www.freecodecamp.org/certification/Lala2398/data-analysis-with-python-v7)
 
 [Lecture codes](https://github.com/Lala2398/FreeCodeCamp_tutorial_Projects/tree/main/DataAnalysiswith_Python/Lecture%20codes)
 
@@ -28,7 +28,7 @@ Project 3 - [Medical Data Visualizer](https://github.com/Lala2398/FreeCodeCamp_t
 
 Project 4 - [Page View Time Series Visualizer](https://github.com/Lala2398/FreeCodeCamp_tutorial_Projects/tree/main/DataAnalysiswith_Python/Page_View_Time_Series_Visualizer)
 
-Project 5 - [Sea Level Predictor]()
+Project 5 - [Sea Level Predictor](https://github.com/Lala2398/FreeCodeCamp_tutorial_Projects/tree/main/DataAnalysiswith_Python/DA_freecodecamp_sea_level)
 
 
 ### 2. Responsive Web Design Project
