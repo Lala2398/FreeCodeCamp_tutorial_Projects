@@ -6,6 +6,10 @@ Welcome to my FreeCodeCamp projects repository! This repository contains various
 
 ### 1. Data Analysis Projects
 
+[Lecture codes](https://github.com/Lala2398/FreeCodeCamp_tutorial_Projects/tree/main/DataAnalysiswith_Python/Lecture%20codes)
+
+[Lecture Data](https://github.com/Lala2398/FreeCodeCamp_tutorial_Projects/tree/main/DataAnalysiswith_Python/Data)
+
 #### [Mean, Variance, Standard Deviation Calculator](https://github.com/Lala2398/FreeCodeCamp_tutorial_Projects/tree/main/DataAnalysiswith_Python/mean_var_std_project)
 - **Description:** A calculator that computes the mean, variance, and standard deviation of a given dataset.
 - **Technologies Used:** Python, NumPy
@@ -18,6 +22,14 @@ Welcome to my FreeCodeCamp projects repository! This repository contains various
 - **Files:**
   - `demographics.py`: The main script for demographic data analysis.
   - `README.md`: Documentation for the project.
+ 
+
+Project 3 - [Medical Data Visualizer](https://github.com/Lala2398/FreeCodeCamp_tutorial_Projects/tree/main/DataAnalysiswith_Python/DA_Freecodecamp_Med)
+
+Project 4 - [Page View Time Series Visualizer](https://github.com/Lala2398/FreeCodeCamp_tutorial_Projects/tree/main/DataAnalysiswith_Python/Page_View_Time_Series_Visualizer)
+
+Project 5 - [Sea Level Predictor]()
+
 
 ### 2. Responsive Web Design Project
 
