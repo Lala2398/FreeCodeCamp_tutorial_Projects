@@ -50,6 +50,48 @@ Project 5 - [Sea Level Predictor]()
      - Handles non-letter characters (e.g., spaces, punctuation) by leaving them unchanged.
 - **Requirements:** Python 3.x
 
+#### [Learn How to Work with Numbers and Strings by Implementing the Luhn Algorithm](https://github.com/Lala2398/FreeCodeCamp_tutorial_Projects/blob/main/Scientific%20Computing%20with%20Python%20(Beta)/Luhn_algorithm.py)
+
+#### [Learn Lambda Functions by Building an Expense Tracker](https://github.com/Lala2398/FreeCodeCamp_tutorial_Projects/blob/main/Scientific%20Computing%20with%20Python%20(Beta)/Learn_lambda_function_by_building_expense_tracker.py)
+
+#### [Learn Python List Comprehension by Building a Case Converter Program](https://github.com/Lala2398/FreeCodeCamp_tutorial_Projects/blob/main/Scientific%20Computing%20with%20Python%20(Beta)/List_comprehension_by_building_case_converter.py)
+
+#### [Learn the Bisection Method by Finding the Square Root of a Number](https://github.com/Lala2398/FreeCodeCamp_tutorial_Projects/blob/main/Scientific%20Computing%20with%20Python%20(Beta)/Bisection_Method_by_Finding_the_Square_Root_of_a_Number.py)
+
+#### [Certification Project 1: Build an Arithmetic Formatter Project](https://github.com/Lala2398/FreeCodeCamp_tutorial_Projects/blob/main/Scientific%20Computing%20with%20Python%20(Beta)/Build_an_Arithmetic_Formatter.py)
+
+#### [Learn Regular Expressions by Building a Password Generator]()
+
+#### [Learn Algorithm Design by Building a Shortest Path Algorithm]()
+
+
+#### [Learn Recursion by Solving the Tower of Hanoi Puzzle]()
+
+
+#### [Learn Data Structures by Building the Merge Sort Algorithm]()
+
+
+#### [Certification Project 2 : Build a Time Calculator Project]()
+
+#### [Learn Classes and Objects by Building a Sudoku Solver]()
+
+
+#### [Learn Tree Traversal by Building a Binary Search Tree]()
+
+
+#### [Certification Project 3: Build a Budget App Project]()
+
+#### [Learn Special Methods by Building a Vector Space]()
+
+#### [Learn Interfaces by Building an Equation Solver]()
+
+#### [Certification Project 4 : Build a Polygon Area Calculator Project]()
+
+#### [Learn Encapsulation by Building a Projectile Trajectory Calculator]()
+
+#### [Certification Project 5: Build a Probability Calculator Project]()
+
+
 ## Getting Started
 
 To get a copy of the projects, clone this repository using the following command:
