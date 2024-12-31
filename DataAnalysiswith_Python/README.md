@@ -1,5 +1,10 @@
 # DataAnalysiswithPython_FreeCodeCamp
 
+[Lecture codes](https://github.com/Lala2398/FreeCodeCamp_tutorial_Projects/tree/main/DataAnalysiswith_Python/Lecture%20codes)
+
+[Lecture Data](https://github.com/Lala2398/FreeCodeCamp_tutorial_Projects/tree/main/DataAnalysiswith_Python/Data)
+
+
 Project 1 - [Mean-Variance-Standard Deviation Calculator](https://github.com/Lala2398/FreeCodeCamp_tutorial_Projects/tree/main/DataAnalysiswith_Python/mean_var_std_project)
 
 Project 2 - [Demographic Data Analyzer](https://github.com/Lala2398/FreeCodeCamp_tutorial_Projects/tree/main/DataAnalysiswith_Python/Data_analysis_project_demographics)
