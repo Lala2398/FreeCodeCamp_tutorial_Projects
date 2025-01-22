@@ -35,11 +35,20 @@ Project 5 - [Sea Level Predictor](https://github.com/Lala2398/FreeCodeCamp_tutor
 
 #### [Cat Photo App](https://github.com/Lala2398/FreeCodeCamp_tutorial_Projects/tree/main/ResponsiveWebDesign/Cat%20Photo%20App%20with%20HTML)
 - **Description:** A responsive web application that showcases cat photos using HTML.
-- **Technologies Used:** HTML, CSS
+- **Technologies Used:** HTML
 - **Files:**
   - `CatPhotoApp.html`: The main HTML file for the cat photo app.
   - `Cat_photo_app.png`: Photo of project
+ 
+ 
+#### [Cafe Menu with HTML and CSS](https://github.com/Lala2398/FreeCodeCamp_tutorial_Projects/tree/main/ResponsiveWebDesign/Building_Cafe_Menu_html_css)
+- **Description:** A cafe menu site with HTML and CSS
+- **Technologies:** HTML,CSS
+- **Files:**
+- `index.html`
+- `styles.css`
 
+ 
  ### 3. Scientific Computing with Python (Beta) [Certification](https://www.freecodecamp.org/certification/Lala2398/scientific-computing-with-python-v7)
 
  #### [Learn String Manipulation by Building a Cipher](https://github.com/Lala2398/FreeCodeCamp_tutorial_Projects/blob/main/Scientific%20Computing%20with%20Python%20(Beta)/Learn_String_Manipulation_by_Building_a_Cipher.py) 
