@@ -48,6 +48,8 @@ Project 5 - [Sea Level Predictor](https://github.com/Lala2398/FreeCodeCamp_tutor
 - `index.html`
 - `styles.css`
 
+#### [Registration Form with HTML & CSS](https://github.com/Lala2398/FreeCodeCamp_tutorial_Projects/tree/main/ResponsiveWebDesign/Registration_form_html_css) 
+
  
  ### 3. Scientific Computing with Python (Beta) [Certification](https://www.freecodecamp.org/certification/Lala2398/scientific-computing-with-python-v7)
 
