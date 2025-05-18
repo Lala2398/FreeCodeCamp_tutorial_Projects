@@ -48,6 +48,8 @@ Project 5 - [Sea Level Predictor](https://github.com/Lala2398/FreeCodeCamp_tutor
 - `index.html`
 - `styles.css`
 
+#### [CSS Colored Markers with HTML and CSS](https://github.com/Lala2398/FreeCodeCamp_tutorial_Projects/tree/main/ResponsiveWebDesign/CSS_Colors_Markers)
+
 #### [Registration Form with HTML & CSS](https://github.com/Lala2398/FreeCodeCamp_tutorial_Projects/tree/main/ResponsiveWebDesign/Registration_form_html_css) 
 
  
